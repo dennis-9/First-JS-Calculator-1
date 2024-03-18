@@ -9,6 +9,10 @@ This projects is enphasize on students learning to use this Project to understan
 ## Features 
  
 - Input numbers and perform calculations. 
+    - Addition. 
+    - Subtraction. 
+    - Multiplication. 
+    - Division. 
 - Add decimal points for precise calculations. 
 - Clear the display and start over. 
 - Chain multiple operations together. 
